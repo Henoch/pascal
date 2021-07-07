@@ -1,33 +1,13 @@
-/**
- * Pascal.java    5 jul. 2021
- *
- * Copyright (c) 2021 MAR-IT Systems
- *
- * Este software es confidencial y contiene información perteneciente
- * a la MAR-IT Systems.
- *
- */
 
 package mx.com.xpos;
 
-/**
- * @autor MAR-IT Systems
- */
+
 public class Pascal {
 
-  /**
-   * Método: main
-   * Descripción: 
-   *
-   * @autor MAR-IT Systems
-   * @since 5 jul. 2021
-   * 
-   * @param args
-   */
   public static void main(String[] args) {
-    // TODO Auto-generated method stub
+
     
-    int x = 20 ;
+    int x = 10 ;
     int[][] m= new int[x][x];
 
     for (int i = 0; i < x; i++) {
